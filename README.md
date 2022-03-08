@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/a-responsive-dashboard-app-using-reactjs-and-tailwindcss-for-the-style-dYLE4xJkI)
+- Live Site URL: [Add live site URL here](https://timetrackdashboardapp.netlify.app)
 
 ## My process
 
@@ -83,7 +83,6 @@ For next project i will continue focusing on tailwind and react to built future 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@hermawangan](https://www.frontendmentor.io/profile/hermawangan)
 - Twitter - [@hermawangan39](https://twitter.com/hermawangan39)
 - LinkedIn - [@hermawangan](https://www.linkedin.com/in/hermawan-gan/)
