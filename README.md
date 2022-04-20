@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/a-responsive-dashboard-app-using-reactjs-and-tailwindcss-for-the-style-dYLE4xJkI)
-- Live Site URL: [Add live site URL here](https://timetrackdashboardapp.netlify.app)
+- Solution URL: [Click here to see the solution](https://www.frontendmentor.io/solutions/a-responsive-dashboard-app-using-reactjs-and-tailwindcss-for-the-style-dYLE4xJkI)
+- Live Site URL: [Click here to see the live demo](https://timetrackdashboardapp.netlify.app)
 
 ## My process
 
